@@ -1,6 +1,13 @@
+import { Outlet } from "react-router-dom"
+
 const LandingPage = () => {
   return (
-    <div>LandingPage</div>
+    <div>
+      <Outlet/>
+      <navlink to = "/">
+      inicio
+      <navlink/>
+      </div>
   )
 }
 export default LandingPage
