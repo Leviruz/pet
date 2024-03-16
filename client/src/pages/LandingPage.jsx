@@ -1,12 +1,11 @@
 import { Outlet } from "react-router-dom"
+import Navbar from "../components/Navbar"
 
 const LandingPage = () => {
   return (
     <div>
+      <Navbar/>
       <Outlet/>
-      <navlink to = "/">
-      inicio
-      <navlink/>
       </div>
   )
 }
