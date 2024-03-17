@@ -1,9 +1,11 @@
 import styled from "styled-components";
 
 const Wrapper = styled.image`
- .logo{
-     cursor: pointer;
-     width: 150px;
+ img{
+    top: 0;
+    left: 0;
+    height: 100vh;
+    background-size: cover;
 } 
 `;
 export default Wrapper
