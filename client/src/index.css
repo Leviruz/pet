@@ -10,6 +10,7 @@ body {
   background-color: var(--font-color-white);
   color: var(--font-color-white);
   margin: 0;
+  padding: 0;
   box-sizing: border-box;
   font-family: "Assistant", sans-serif;
 }

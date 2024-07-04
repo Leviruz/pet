@@ -1,4 +1,4 @@
-import Foto_petianos from "../assets/images/foto.jpg";
+import Foto_petianos from "../assets/images/teste2.jpg";
 import Wrapper from "../assets/wrappers/backgroundImg";
 
 const BackgroundPET = () => {
@@ -11,4 +11,4 @@ const BackgroundPET = () => {
   )
 }
 
-export default BackgroundPET
+export default BackgroundPET;

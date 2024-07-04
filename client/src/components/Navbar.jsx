@@ -10,4 +10,4 @@ const Navbar = () => {
     </Wrapper>
   )
 }
-export default Navbar
+export default Navbar;
